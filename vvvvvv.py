@@ -1,6 +1,3 @@
-from re import A
-
-
 s=str(input('introdu sirul:'))
 s1=len([i for i in s if i=='A'])
 print('a) numarul de aparitii ale caracterului (A) in sir:',s1)
